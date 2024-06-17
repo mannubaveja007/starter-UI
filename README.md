@@ -1,11 +1,40 @@
-# Basic UI for finance Application
+# Basic UI for finance based application
+A mobile app for secure, fast, and reliable payments.
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+## Description
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+The XYZ Company mobile app allows users to make quick and secure cryptocurrency payments. The app is designed to provide a seamless user experience, with a focus on ease of use and reliability.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+#### Features
+  1. User-friendly interface for easy payment processing
+  2. Secure payment processing with encryption
+  3. Fast and reliable transactions
+  4. User authentication and verification
+  5. Transaction history and tracking
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+## Getting Started
+
+### Installing
+
+*  Clone or download the repository
+*  Install the required dependencies using npm install or yarn install
+*  Run the app on a simulator or physical device using npx react-native run-ios or npx react-native run-android
+
+### Running the App
+
+*  Open the app on a simulator or physical device
+*  Fill in the required information, including name, age, amount, from wallet address, and to address
+*  Click the "Send Payment" button to process the payment
+*  View the transaction status and history
+
+## Help
+
+SOON i will improve it... and if need any help let me know...😁
+
+
+
+## Authors
+
+Mannu Baveja
+
