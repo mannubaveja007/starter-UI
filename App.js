@@ -19,7 +19,7 @@ const Payments = () => {
 
   return (
     <View>
-      <Text> Payme solutions </Text>
+      <Text> [company] solutions </Text>
       <Text> 1. New and latest </Text>
       <Text> 2. Crypto Currency </Text>
       <Text> 3. Trustable </Text>
